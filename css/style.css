@@ -1,0 +1,12 @@
+body{
+    background-image: url(fondo.jpg);
+}
+style>
+            .imagen-center{
+                display:block ;
+                margin: 0%; 
+            }
+            .imagen-ancha{
+                width:17%;
+            }
+            
